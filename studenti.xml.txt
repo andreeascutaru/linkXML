@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studenti>
+    <student>
+        <nume>Popescu Andrei</nume>
+        <varsta>20</varsta>
+    </student>
+    <student>
+        <nume>Ionescu Maria</nume>
+        <varsta>22</varsta>
+    </student>
+    <student>
+        <nume>Georgescu Mihai</nume>
+        <varsta>21</varsta>
+    </student>
+    <student>
+        <nume>Petrescu Elena</nume>
+        <varsta>19</varsta>
+    </student>
+</studenti>
